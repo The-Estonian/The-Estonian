@@ -1,4 +1,4 @@
-<p align=center> # Hello!
+<p align="center"> Hello!
 
 <p align="left" width="100%">
 
